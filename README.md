@@ -5,7 +5,7 @@ This repository list all public deployed smart contract address on Ethereum main
 
 MM Token: [xxxx](https://etherscan.io/address/0x0)
 
-Timelock (24 hours): [xxxx](https://etherscan.io/address/0x0)
+Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
 Masterchef: [xxxx](https://etherscan.io/address/0x0)
 
@@ -27,7 +27,7 @@ Governance: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/ad
 
 Treasury Wallet (cold custody): [0x3567FDe6092509c0A9AaA66dA9c047979E7B0533](https://etherscan.io/address/0x3567FDe6092509c0A9AaA66dA9c047979E7B0533)
 
-Timelock (24 hours): [xxxx](https://etherscan.io/address/0x0)
+Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
 | Name | Want | Mushrooms Vault | Strategy |
 | ---  | --- | --- | --- |
