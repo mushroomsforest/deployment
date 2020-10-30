@@ -3,7 +3,7 @@ This repository list all public deployed smart contract address on Ethereum main
 
 ## Mushrooms.Finance Contracts
 
-MM Token: [xxxx](https://etherscan.io/address/0x0)
+MM Token: [0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304)
 
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
@@ -31,17 +31,17 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 
 | Name | Want | Mushrooms Vault | Strategy |
 | ---  | --- | --- | --- |
-| 3CRV Vault       | [3CRV](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)              | [xxxx](https://etherscan.io/address/0x0)          | [xxxx](https://etherscan.io/address/0x0) |
+| Matsutake Field       | [3CRV](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)              | [xxxx](https://etherscan.io/address/0x0)          | [xxxx](https://etherscan.io/address/0x0) |
 
 ---
 
 ## Farming Pools
 
-| Index | Active | Token |
-| --- | --- | --- |
-| 0 | :heavy_check_mark: | [xxxx](https://etherscan.io/address/0x0) |
-| 1 | :heavy_check_mark: |  [xxxx](https://etherscan.io/address/0x0) |
-| 2 | :heavy_check_mark: |  [xxxx](https://etherscan.io/address/0x0) |
+| Index | Name | Active | Token |
+| --- | --- | --- | --- |
+| 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
+| 1 | Enoki Pot  | :heavy_check_mark: |  [xxxx](https://etherscan.io/address/0x0) |
+| 2 | Cremini Soup  |:heavy_check_mark: |  [xxxx](https://etherscan.io/address/0x0) |
 
 ---
 
