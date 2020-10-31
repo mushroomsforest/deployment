@@ -7,7 +7,7 @@ MM Token: [0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304](https://etherscan.io/addr
 
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
-Masterchef: [xxxx](https://etherscan.io/address/0x0)
+Masterchef: [0xf8873a6080e8dbf41ada900498de0951074af577](https://etherscan.io/address/0xf8873a6080e8dbf41ada900498de0951074af577)
 
 Governance : [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
