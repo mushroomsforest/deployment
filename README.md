@@ -31,7 +31,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 
 | Name | Want | Mushrooms Vault | Strategy |
 | ---  | --- | --- | --- |
-| Matsutake Field       | [3CRV](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)              | [MMVault](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069)          | [xxxx](https://etherscan.io/address/0x0) |
+| Matsutake Field       | [3CRV](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)              | [MMVault](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069)          | [StrategyCurve3CRVv1](https://etherscan.io/address/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7) |
 
 ---
 
