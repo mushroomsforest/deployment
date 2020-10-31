@@ -19,7 +19,7 @@ Treasury Wallet (cold custody): [0x3567FDe6092509c0A9AaA66dA9c047979E7B0533](htt
 
 ## Earning Vaults
 
-Controller: [0xc26164a7caacb92879cbd188ec3d71e26709249d](https://etherscan.io/address/0xc26164a7caacb92879cbd188ec3d71e26709249d)
+Controller: [0x4bf5059065541a2b176500928e91fbfd0b121d07](https://etherscan.io/address/0x4bf5059065541a2b176500928e91fbfd0b121d07)
 
 Strategist: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
