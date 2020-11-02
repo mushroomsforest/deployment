@@ -43,7 +43,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | --- | --- | --- | --- |
 | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
 | 1 | Enoki Pot  | :heavy_check_mark: |  [m3CRV](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
-| 2 | Cremini Soup  |:heavy_check_mark: |  [xxxx](https://etherscan.io/address/0x0) |
+| 2 | Cremini Soup  |:heavy_check_mark: |  [MM-USDC UNISWAP LP](https://etherscan.io/address/0xbbf933c1af0e9798615099a37a17cafc6da87732) |
 
 ---
 
