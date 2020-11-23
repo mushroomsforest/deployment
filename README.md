@@ -47,6 +47,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 1 | Enoki Pot  | :heavy_check_mark: |  [m3CRV](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
 | 2 | Cremini Soup  |:heavy_check_mark: |  [MM-USDC UNISWAP LP](https://etherscan.io/address/0xbbf933c1af0e9798615099a37a17cafc6da87732) 
 | 3 | Chocolate Truffle  |:heavy_check_mark: |  [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f) |
+| 4 | Porcini Risotto  |:heavy_check_mark: |  [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7) |
 
 
 ---
