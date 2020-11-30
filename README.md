@@ -49,6 +49,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 2 | Cremini Soup  |:heavy_check_mark: |  [MM-USDC UNISWAP LP](https://etherscan.io/address/0xbbf933c1af0e9798615099a37a17cafc6da87732) 
 | 3 | Chocolate Truffle  |:heavy_check_mark: |  [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f) |
 | 4 | Porcini Risotto  |:heavy_check_mark: |  [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7) |
+| 5 | Chanterelle Pancake  |:heavy_check_mark: |  [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d) |
 
 
 ---
