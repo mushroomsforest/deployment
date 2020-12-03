@@ -58,7 +58,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 ## Keeper3R jobs
 
 | Name | Active | Description |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | :heavy_check_mark: | Keeper jobs to harvest profits for [4 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1/StrategyCmpdDaiV1/StrategyCmpdUsdcV1 |
 
 ---
