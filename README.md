@@ -37,6 +37,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Boletus Field       | [crvRENWBTC](https://etherscan.io/address/0x49849c98ae39fff122806c06791fa73784fb3675)              | [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f)          | [StrategyCurveRENWBTCv1](https://etherscan.io/address/0x5a709dfa094273795b787caafc6855a120b2bebd) |
 | Kikurage Field       | [DAI](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)              | [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7)          | [StrategyCmpdDaiV1](https://etherscan.io/address/0xf0ba303fd2ce5ebbb22d0d6590463d7549a08388) |
 | Lentinula Field       | [USDC](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)              | [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d)          | [StrategyCmpdUsdcV1](https://etherscan.io/address/0x8f288a56a6c06ffc75994a2d46e84f8bda1a0744) |
+| Agaricus Field       | [MIR-UST UNISWAP LP](https://etherscan.io/address/0x87da823b6fc8eb8575a235a824690fda94674c88)              | [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa)          | [StrategyMirUstLpV1](https://etherscan.io/address/0x0a625d31ebf6e8a93c54911075b00de881549b92) |
 
 ---
 
@@ -50,6 +51,9 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 3 | Chocolate Truffle  |:heavy_check_mark: |  [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f) |
 | 4 | Porcini Risotto  |:heavy_check_mark: |  [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7) |
 | 5 | Chanterelle Pancake  |:heavy_check_mark: |  [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d) |
+| 6 | Lingzhi Tea  |:heavy_check_mark: |  [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa) |
+| 7 | Snow Fungus Dessert  |:heavy_check_mark: |  [MM-ETH SUSHISWAP LP](https://etherscan.io/address/0x41848373dec2867ef3924e47b2ebd0ee645a54f9) |
+| 8 | Fried King Oyster  |:heavy_check_mark: |  [MM-KP3R SUSHI LP](https://etherscan.io/address/0x18ee956e99cc606530c20d9cadd6af5ece08d89f) |
 
 
 ---
