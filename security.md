@@ -80,3 +80,7 @@ For other artifacts outside of those mentioned above, please do reach out to the
 ## Credits
 
 Inspired by security practice and guideline from [Yearn](https://github.com/iearn-finance/yearn-protocol/blob/develop/SECURITY.md). Really appreciate
+
+## Partner White-Hats Community
+
+https://immunefi.com/explore/
