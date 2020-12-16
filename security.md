@@ -83,4 +83,4 @@ Inspired by security practice and guideline from [Yearn](https://github.com/iear
 
 ## Partner White-Hats Community
 
-https://immunefi.com/explore/
+[ImmuneFi](https://immunefi.com/bounty/mushroom/)
