@@ -42,6 +42,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Kikurage Field       | [DAI](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)              | [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7)          | [StrategyCmpdDaiV1](https://etherscan.io/address/0xf0ba303fd2ce5ebbb22d0d6590463d7549a08388) |
 | Lentinula Field       | [USDC](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)              | [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d)          | [StrategyCmpdUsdcV1](https://etherscan.io/address/0x8f288a56a6c06ffc75994a2d46e84f8bda1a0744) |
 | Agaricus Field       | [MIR-UST UNISWAP LP](https://etherscan.io/address/0x87da823b6fc8eb8575a235a824690fda94674c88)              | [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa)          | [StrategyMirUstLpV1](https://etherscan.io/address/0x0a625d31ebf6e8a93c54911075b00de881549b92) |
+| Russula Field       | [WETH](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2)              | [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488)          | [StrategyMakerWETHV1](https://etherscan.io/address/0xFC89086c0B1f8acbd342f418D3EA1C9e425e5cbb) |
 
 ---
 
@@ -58,6 +59,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 6 | Lingzhi Tea  |:heavy_check_mark: |  [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa) |
 | 7 | Snow Fungus Dessert  |:heavy_check_mark: |  [MM-ETH SUSHISWAP LP](https://etherscan.io/address/0x41848373dec2867ef3924e47b2ebd0ee645a54f9) |
 | 8 | Fried King Oyster  |:heavy_check_mark: |  [MM-KP3R SUSHI LP](https://etherscan.io/address/0x18ee956e99cc606530c20d9cadd6af5ece08d89f) |
+| 9 | Maitake Tempura  |:heavy_check_mark: |  [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488) |
 
 
 ---
