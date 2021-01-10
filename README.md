@@ -43,6 +43,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Lentinula Field       | [USDC](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)              | [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d)          | [StrategyCmpdUsdcV1](https://etherscan.io/address/0x8f288a56a6c06ffc75994a2d46e84f8bda1a0744) |
 | Agaricus Field       | [MIR-UST UNISWAP LP](https://etherscan.io/address/0x87da823b6fc8eb8575a235a824690fda94674c88)              | [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa)          | [StrategyMirUstLpV1](https://etherscan.io/address/0x0a625d31ebf6e8a93c54911075b00de881549b92) |
 | Russula Field       | [WETH](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2)              | [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488)          | [StrategyMakerWETHV1](https://etherscan.io/address/0xFC89086c0B1f8acbd342f418D3EA1C9e425e5cbb) |
+| Coprinus Field       | [UNI](https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)              | [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43)          | [Strategy88MphUNIV1](https://etherscan.io/address/0xe09cd96100a0e9a19e064dc475568a428515d2e2) |
 
 ---
 
