@@ -2,7 +2,7 @@
 This repository list all public deployed smart contract address on Ethereum mainnet for mushrooms ecosystem.
 
 ## IPFS gateway
-IPFS Hash: [QmYBzheqGaoGdzEXhPd1pv1EFf9MwD8ybezLRnNiLBZCHc](https://gateway.pinata.cloud/ipfs/QmYBzheqGaoGdzEXhPd1pv1EFf9MwD8ybezLRnNiLBZCHc)
+IPFS Hash: [QmRKZkPt6fU2Yo6Ep1rL8JwgYvS4rR54cZSMeLsWzeFksM](https://gateway.pinata.cloud/ipfs/QmRKZkPt6fU2Yo6Ep1rL8JwgYvS4rR54cZSMeLsWzeFksM)
 
 ## Deployer
 Deployer address: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
@@ -61,6 +61,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 7 | Snow Fungus Dessert  |:heavy_check_mark: |  [MM-ETH SUSHISWAP LP](https://etherscan.io/address/0x41848373dec2867ef3924e47b2ebd0ee645a54f9) |
 | 8 | Fried King Oyster  |:heavy_check_mark: |  [MM-KP3R SUSHI LP](https://etherscan.io/address/0x18ee956e99cc606530c20d9cadd6af5ece08d89f) |
 | 9 | Maitake Tempura  |:heavy_check_mark: |  [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488) |
+| 10| Budae Jjigae  |:heavy_check_mark: |  [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43) |
 
 
 ---
