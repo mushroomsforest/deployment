@@ -77,6 +77,9 @@ The scope of the Bug Bounty program spans 1) smart contracts and 2) frontend cod
 
 For other artifacts outside of those mentioned above, please do reach out to the Mushrooms Finance core dev team for clarification on a case by case base.
 
+### Existing Audits
+- https://github.com/mushroomsforest/deployment/blob/d760b781703bf1aaf9d152197b2ef550820518ae/README.md by CoinFabrik
+
 ## Credits
 
 Inspired by security practice and guideline from [Yearn](https://github.com/iearn-finance/yearn-protocol/blob/develop/SECURITY.md). Really appreciate
