@@ -2,7 +2,7 @@
 This repository list all public deployed smart contract address on Ethereum mainnet for mushrooms ecosystem.
 
 ## IPFS gateway
-IPFS Hash: [QmRKZkPt6fU2Yo6Ep1rL8JwgYvS4rR54cZSMeLsWzeFksM](https://gateway.pinata.cloud/ipfs/QmRKZkPt6fU2Yo6Ep1rL8JwgYvS4rR54cZSMeLsWzeFksM)
+IPFS Hash: [QmbpBTrFVfFNbSpzKadHZR1VMKSHjw1pX3JgutKaWkxVwe](https://gateway.pinata.cloud/ipfs/QmbpBTrFVfFNbSpzKadHZR1VMKSHjw1pX3JgutKaWkxVwe)
 
 ## Deployer
 Deployer address: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
