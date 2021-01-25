@@ -44,6 +44,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Agaricus Field       | [MIR-UST UNISWAP LP](https://etherscan.io/address/0x87da823b6fc8eb8575a235a824690fda94674c88)              | [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa)          | [StrategyMirUstLpV1](https://etherscan.io/address/0x0a625d31ebf6e8a93c54911075b00de881549b92) |
 | Russula Field       | [WETH](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2)              | [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488)          | [StrategyMakerWETHV1](https://etherscan.io/address/0xFC89086c0B1f8acbd342f418D3EA1C9e425e5cbb) |
 | Coprinus Field       | [UNI](https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)              | [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43)          | [Strategy88MphUNIV1](https://etherscan.io/address/0xe09cd96100a0e9a19e064dc475568a428515d2e2) |
+| Pleurotus Field       | [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)              | [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A)          | [StrategyCompdWBTCV1](https://etherscan.io/address/0xc8EBBaAaD5fF2e5683f8313fd4D056b7Ff738BeD) |
 
 ---
 
