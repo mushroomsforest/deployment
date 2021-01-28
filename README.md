@@ -73,6 +73,12 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 
 | Name | Active | Description |
 | --- | --- | --- |
-| [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | :heavy_check_mark: | Keeper jobs to harvest profits for [4 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1/StrategyCmpdDaiV1/StrategyCmpdUsdcV1 |
+| [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | :heavy_check_mark: | Keeper jobs to harvest profits for [2 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1 |
 
 ---
+
+## Integrations
+| Name | Active | Description |
+| --- | --- | --- |
+| [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A)  | :heavy_check_mark: | Experimental yVault for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [yearn.rocks](https://yearn.rocks) soon |
+
