@@ -65,6 +65,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 9 | Maitake Tempura  |:heavy_check_mark: |  [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488) |
 | 10| Budae Jjigae  |:heavy_check_mark: |  [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43) |
 | 11| Creamy Pasta  |:heavy_check_mark: |  [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) |
+| 12| Quinoa Burger  |:heavy_check_mark: |  [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c) |
 
 
 ---
