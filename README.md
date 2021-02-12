@@ -82,5 +82,5 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 ## Integrations
 | Name | Active | Description |
 | --- | --- | --- |
-| [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A) and [yStrategy](https://etherscan.io/address/0xE5dc99Cbf841A6721781E592214674A87a1A70BC) | :heavy_check_mark: | Experimental yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.1) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [yearn.rocks](https://yearn.rocks/mmwbtc) |
+| [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A) and [yStrategy](https://etherscan.io/address/0xa93cb639ae732559ab9315b3a1615e624c32cc59) | :heavy_check_mark: | Experimental yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.1) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [yearn.rocks](https://yearn.rocks/mmwbtc) |
 
