@@ -46,6 +46,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Coprinus Field       | [UNI](https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)              | [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43)          | [Strategy88MphUNIV1](https://etherscan.io/address/0xe09cd96100a0e9a19e064dc475568a428515d2e2) |
 | Pleurotus Field       | [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)              | [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A)          | [StrategyCompdWBTCV1](https://etherscan.io/address/0xc8EBBaAaD5fF2e5683f8313fd4D056b7Ff738BeD) |
 | Calvatia Field       | [LINK](https://etherscan.io/address/0x514910771af9ca656af840dff83e8264ecf986ca)              | [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c)          | [StrategyMakerLINKV1](https://etherscan.io/address/0xBfA66151a798D893D4537A59dDACC8FDC56BE749) |
+| Helvella Field       | [ZRX](https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498)              | [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e)          | [StrategyMakerLINKV1](https://etherscan.io/address/0xB5079550f9D758fdCcdC1a109226715D045eB012) |
 
 ---
 
@@ -66,6 +67,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 10| Budae Jjigae  |:heavy_check_mark: |  [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43) |
 | 11| Creamy Pasta  |:heavy_check_mark: |  [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) |
 | 12| Quinoa Burger  |:heavy_check_mark: |  [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c) |
+| 13| Veggie Pizza  |:heavy_check_mark: |  [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e) |
 
 
 ---
@@ -83,4 +85,3 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Name | Active | Description |
 | --- | --- | --- |
 | [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A) and [yStrategy](https://etherscan.io/address/0xa93cb639ae732559ab9315b3a1615e624c32cc59) | :heavy_check_mark: | Experimental yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.1) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [yearn.rocks](https://yearn.rocks/mmwbtc) |
-
