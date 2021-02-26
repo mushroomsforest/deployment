@@ -77,8 +77,8 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 
 | Name | Active | Description |
 | --- | --- | --- |
-| [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | :heavy_check_mark: | Keeper jobs to harvest profits for [2 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1, [sample here](https://github.com/keep3r-network/keep3r.network/pull/47/files) |
-| [Generic Keep3r V2 for Mushrooms](https://etherscan.io/address/0x0bD1d668d8E83d14252F2e01D5873df77A6511f0)  | ⭕ | Keeper jobs to for all vaults & strategies, [sample here](https://github.com/keep3r-network/keep3r.network/pull/52) |
+| [Generic Keep3r V2 for Mushrooms](https://etherscan.io/address/0x0bD1d668d8E83d14252F2e01D5873df77A6511f0)  | :heavy_check_mark: | Keeper jobs to for all vaults & strategies, [sample here](https://github.com/keep3r-network/keep3r.network/pull/52) |
+| [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | ⭕ | Keeper jobs to harvest profits for [2 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1, [sample here](https://github.com/keep3r-network/keep3r.network/pull/47/files) |
 
 ---
 
