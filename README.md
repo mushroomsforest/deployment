@@ -47,6 +47,8 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Pleurotus Field       | [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)              | [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A)          | [StrategyCompdWBTCV1](https://etherscan.io/address/0xc8EBBaAaD5fF2e5683f8313fd4D056b7Ff738BeD) | [Leveraged Yield $COMP](https://app.zerion.io/0xc8ebbaaad5ff2e5683f8313fd4d056b7ff738bed/overview) |
 | Calvatia Field       | [LINK](https://etherscan.io/address/0x514910771af9ca656af840dff83e8264ecf986ca)              | [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c)          | [StrategyMakerLINKV1](https://etherscan.io/address/0xBfA66151a798D893D4537A59dDACC8FDC56BE749) |  [Collateralized & Leveraged Yield $COMP](https://defiexplore.com/cdp/20627) |
 | Helvella Field       | [ZRX](https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498)              | [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e)          | [StrategyMakerZRXV1](https://etherscan.io/address/0xB5079550f9D758fdCcdC1a109226715D045eB012) |  [Collateralized & Leveraged Yield $COMP](https://defiexplore.com/cdp/21300) |
+| Geastrum Field       | [ALCX](https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df)              | [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC)          | [StrategyAlchemixALCXV1](https://etherscan.io/address/0x27bf4D326A4f11a11a72a07F38da64D2f502a23B) |  [Auto-Compounding Yield $ALCX](https://zapper.fi/dashboard?address=0x27bf4D326A4f11a11a72a07F38da64D2f502a23B) |
+| Aleuria Field       | [ALUSD](https://etherscan.io/token/0xbc6da0fe9ad5f3b0d58160288917aa56653660e9)              | [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449)          | [StrategyAlchemixALUSDV1](https://etherscan.io/address/0x263a8a6CAC9F58e78413497fC913Fe38bFc45B3b) |  [Auto-Compounding Yield $ALCX](https://zapper.fi/dashboard?address=0x263a8a6CAC9F58e78413497fC913Fe38bFc45B3b) |
 
 ---
 
@@ -68,6 +70,8 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 11| Creamy Pasta  |:heavy_check_mark: |  [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) |
 | 12| Quinoa Burger  |:heavy_check_mark: |  [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c) |
 | 13| Veggie Pizza  |:heavy_check_mark: |  [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e) |
+| 14| Vegetable Dumpling  |:heavy_check_mark: |  [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC) |
+| 15| Chicken Curry  |:heavy_check_mark: |  [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449) |
 
 
 ---
