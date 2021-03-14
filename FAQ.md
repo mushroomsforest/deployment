@@ -31,7 +31,7 @@ _MM token is mainly for governance in Mushrooms Finance and distributed through 
 - _Total supply of 721704 MM to be mined in 4 years, refer to [Etherscan](https://etherscan.io/token/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) for current circulation_
 - _Staking MM in a farming pool allows you to earn captured fee among Mushrooms ecosystem, i.e., buyback-and-make philosophy_
 - _MM token is currently only distributed via Farms with [a weekly-decreasing schedule](https://mushroomsfi.medium.com/mushrooms-finance-governance-token-distribution-schedule-25d633c96fc) to align for the best interest of the Mushrooms community_ 
-- _Check our weekly report on latest distribution allocation among all farming pools on [Medium](https://mushroomsfi.medium.com/)_
+- _Check our weekly report on latest distribution allocation among all farming pools on [Medium](https://medium.com/mushroomsfinance)_
 
 **How to participate in the governance?**  
 _Currently we hold an off-chain voting portal on [Snapshot](https://snapshot.org/#/mushroomsfi.eth/). You need to hold/stake some MM token or stake LP token in Farms to vote._
