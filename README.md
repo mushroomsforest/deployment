@@ -49,6 +49,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | Helvella Field       | [ZRX](https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498)              | [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e)          | [StrategyMakerZRXV1](https://etherscan.io/address/0xB5079550f9D758fdCcdC1a109226715D045eB012) |  [Collateralized & Leveraged Yield $COMP](https://defiexplore.com/cdp/21300) |
 | Geastrum Field       | [ALCX](https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df)              | [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC)          | [StrategyAlchemixALCXV1](https://etherscan.io/address/0x27bf4D326A4f11a11a72a07F38da64D2f502a23B) |  [Auto-Compounding Yield $ALCX](https://zapper.fi/dashboard?address=0x27bf4D326A4f11a11a72a07F38da64D2f502a23B) |
 | Aleuria Field       | [ALUSD](https://etherscan.io/token/0xbc6da0fe9ad5f3b0d58160288917aa56653660e9)              | [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449)          | [StrategyAlchemixALUSDV1](https://etherscan.io/address/0x263a8a6CAC9F58e78413497fC913Fe38bFc45B3b) |  [Auto-Compounding Yield $ALCX](https://zapper.fi/dashboard?address=0x263a8a6CAC9F58e78413497fC913Fe38bFc45B3b) |
+| Lycoperdon Field       | [USDP3CRV](https://etherscan.io/token/0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6)              | [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B)          | [StrategyUSDP3CRV](https://etherscan.io/address/0xe41Db139B01e759155aE5Aa4CC045b11470aF4B1) |  [Yield $CRV](https://zapper.fi/dashboard?address=0xe41Db139B01e759155aE5Aa4CC045b11470aF4B1) |
 
 ---
 
@@ -72,6 +73,7 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 | 13| Veggie Pizza  |:heavy_check_mark: |  [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e) |
 | 14| Vegetable Dumpling  |:heavy_check_mark: |  [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC) |
 | 15| Chicken Curry  |:heavy_check_mark: |  [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449) |
+| 16| Spicy Ramen  |:heavy_check_mark: |  [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B) |
 
 
 ---
