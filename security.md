@@ -79,6 +79,7 @@ For other artifacts outside of those mentioned above, please do reach out to the
 
 ### Existing Audits
 - [CoinFabrik report](https://blog.coinfabrik.com/mushroom-finance-smart-contract-audit/) for [this commit](https://github.com/mushroomsforest/deployment/blob/d760b781703bf1aaf9d152197b2ef550820518ae/README.md ) 
+- [Dedaub report](https://github.com/mushroomsforest/deployment/blob/main/audits/Mushrooms%20Finance%20audit-dedaub.pdf) for [this commit](https://github.com/mushroomsforest/deployment/commit/456aeff4e574ea1c01c1d4dc9e1afc6b8404bac3)
 
 ## Credits
 
