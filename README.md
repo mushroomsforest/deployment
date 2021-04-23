@@ -2,7 +2,7 @@
 This repository list all public deployed smart contract address on Ethereum mainnet for mushrooms ecosystem.
 
 ## IPFS gateway
-IPFS Hash: [Qmas6WX3CDHGRJTxA7EKZ1Xntx1U4kJ8esBMwqRzvrLaVC](https://gateway.pinata.cloud/ipfs/Qmas6WX3CDHGRJTxA7EKZ1Xntx1U4kJ8esBMwqRzvrLaVC)
+IPFS Hash: [QmVKXGeBFwpgV9AuHSbXfJeLhH58Cn8vyBf6UzdTbCGbsL](https://gateway.pinata.cloud/ipfs/QmVKXGeBFwpgV9AuHSbXfJeLhH58Cn8vyBf6UzdTbCGbsL)
 
 ## Deployer
 Deployer address: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
@@ -58,6 +58,7 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 | Lycoperdon Field       | [USDP3CRV](https://etherscan.io/token/0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6)              | [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B)          | [StrategyUSDP3CRV](https://etherscan.io/address/0xe41Db139B01e759155aE5Aa4CC045b11470aF4B1) |  [Yield $CRV](https://zapper.fi/dashboard?address=0xe41Db139B01e759155aE5Aa4CC045b11470aF4B1) | Ethereum |
 | Rhizopogon Field       | [RenBTC](https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d)              | [mRenBTC](https://etherscan.io/address/0x8c46aDe56409683E5Aa8A73E787d603e7194908F)          | [StrategyUnitRenBTCV1](https://etherscan.io/address/0xF163A5A1c5716b165F977A950F4715E1eC1DEB5C) |  [Collateralized Yield $CRV](https://zapper.fi/dashboard?address=0xF163A5A1c5716b165F977A950F4715E1eC1DEB5C) | Ethereum |
 | Splitgill Field       | [BTCB](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c)              | [mBTCB](https://bscscan.com/address/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304)          | [StrategyVenusBTCBV1](https://bscscan.com/address/0xC26164A7CAAcb92879CBd188Ec3D71e26709249D) |  [Leveraged Yield $XVS](https://debank.com/profile/0xC26164A7CAAcb92879CBd188Ec3D71e26709249D?chain=bsc) | BSC |
+| Lactarius Field       | [BUSD](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56)              | [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555)          | [StrategyEpsBUSDV1](https://bscscan.com/address/0xd9e13f990240553fd90ed4a2d314a6bc5850e32b) |  [Yield $EPS](https://debank.com/profile/0xd9e13f990240553fd90ed4a2d314a6bc5850e32b?chain=bsc) | BSC |
 
 ---
 
@@ -99,5 +100,5 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 ## Integrations
 | Name | Active | Description |
 | --- | --- | --- |
-| [yvWBTC](https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E) and [yStrategy](https://etherscan.io/address/0x53a65c8e238915c79a1e5c366bc133162dbee34f) | :heavy_check_mark: | yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.2) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape-tax-git-poolpi-wbtc-fameal.vercel.app/baghunter) |
+| [yvWBTC](https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E) and [yStrategy](https://etherscan.io/address/0x53a65c8e238915c79a1e5c366bc133162dbee34f) | :heavy_check_mark: | yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.2) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape-tax-git-poolpi-wbtc-fameal.vercel.app/baghunter) & [bagerdao](https://app.badger.finance/)|
 | [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A) and [yStrategy](https://etherscan.io/address/0xa93cb639ae732559ab9315b3a1615e624c32cc59) | ⭕ | Experimental yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.1) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape.tax/mmwbtc) |
