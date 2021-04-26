@@ -11,6 +11,10 @@ Deployer address: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan
 
 MM Token: [0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304)
 
+MM Token on Fantom: [0xbFaf328Fe059c53D936876141f38089df0D1503D](https://ftmscan.com/token/0xbFaf328Fe059c53D936876141f38089df0D1503D)
+
+MM Token on BSC: [0x73f059db0182dc2ed716d028e1b13033cfcbf63b](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b)
+
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
 Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://bscscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
