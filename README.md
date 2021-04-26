@@ -87,6 +87,7 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 | 14| Vegetable Dumpling  |:heavy_check_mark: |  [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC) |
 | 15| Chicken Curry  |:heavy_check_mark: |  [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449) |
 | 16| Spicy Ramen  |:heavy_check_mark: |  [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B) |
+| 17| Malatang  |:heavy_check_mark: |  [mRenBTC](https://etherscan.io/address/0x8c46aDe56409683E5Aa8A73E787d603e7194908F) |
 
 
 ---
