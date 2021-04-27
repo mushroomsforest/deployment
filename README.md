@@ -68,27 +68,31 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 
 ## Farming Pools
 
-| Index | Name | Active | Deposit Token |
-| --- | --- | --- | --- |
-| 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
-| 1 | Enoki Pot  | :heavy_check_mark: |  [m3CRV](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
-| 2 | Cremini Soup  |:heavy_check_mark: |  [MM-USDC UNISWAP LP](https://etherscan.io/address/0xbbf933c1af0e9798615099a37a17cafc6da87732) 
-| 3 | Chocolate Truffle  |:heavy_check_mark: |  [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f) |
-| 4 | Porcini Risotto  |:heavy_check_mark: |  [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7) |
-| 5 | Chanterelle Pancake  |:heavy_check_mark: |  [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d) |
-| 6 | Lingzhi Tea  |:heavy_check_mark: |  [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa) |
-| 7 | Snow Fungus Dessert  |:heavy_check_mark: |  [MM-ETH SUSHISWAP LP](https://etherscan.io/address/0x41848373dec2867ef3924e47b2ebd0ee645a54f9) |
-| 8 | Fried King Oyster  |:heavy_check_mark: |  [MM-KP3R SUSHI LP](https://etherscan.io/address/0x18ee956e99cc606530c20d9cadd6af5ece08d89f) |
-| 9 | Maitake Tempura  |:heavy_check_mark: |  [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488) |
-| 10| Budae Jjigae  |:heavy_check_mark: |  [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43) |
-| 11| Creamy Pasta  |:heavy_check_mark: |  [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) |
-| 12| Quinoa Burger  |:heavy_check_mark: |  [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c) |
-| 13| Veggie Pizza  |:heavy_check_mark: |  [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e) |
-| 14| Vegetable Dumpling  |:heavy_check_mark: |  [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC) |
-| 15| Chicken Curry  |:heavy_check_mark: |  [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449) |
-| 16| Spicy Ramen  |:heavy_check_mark: |  [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B) |
-| 17| Malatang  |:heavy_check_mark: |  [mRenBTC](https://etherscan.io/address/0x8c46aDe56409683E5Aa8A73E787d603e7194908F) |
-
+| Chain |Index | Name | Active | Deposit Token | 
+| --- | --- | --- | --- | --- |
+| Ethereum | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://etherscan.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) | 
+| Ethereum | 1 | Enoki Pot  | :heavy_check_mark: |  [m3CRV](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
+| Ethereum | 2 | Cremini Soup  |:heavy_check_mark: |  [MM-USDC UNISWAP LP](https://etherscan.io/address/0xbbf933c1af0e9798615099a37a17cafc6da87732) |
+| Ethereum | 3 | Chocolate Truffle  |:heavy_check_mark: |  [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f) |
+| Ethereum | 4 | Porcini Risotto  |:heavy_check_mark: |  [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7) |
+| Ethereum | 5 | Chanterelle Pancake  |:heavy_check_mark: |  [mUSDC](https://etherscan.io/address/0x23b197dc671a55f256199cf7e8bee77ea2bdc16d) |
+| Ethereum | 6 | Lingzhi Tea  |:heavy_check_mark: |  [mMIRUST](https://etherscan.io/address/0x374513251ef47db34047f07998e31740496c6faa) |
+| Ethereum | 7 | Snow Fungus Dessert  |:heavy_check_mark: |  [MM-ETH SUSHISWAP LP](https://etherscan.io/address/0x41848373dec2867ef3924e47b2ebd0ee645a54f9) |
+| Ethereum | 8 | Fried King Oyster  |:heavy_check_mark: |  [MM-KP3R SUSHI LP](https://etherscan.io/address/0x18ee956e99cc606530c20d9cadd6af5ece08d89f) |
+| Ethereum | 9 | Maitake Tempura  |:heavy_check_mark: |  [mWETH](https://etherscan.io/address/0xb0f1a38F5531b398E2081c2F9E61EdD2A924b488) |
+| Ethereum | 10| Budae Jjigae  |:heavy_check_mark: |  [mUNI](https://etherscan.io/address/0x41e0c2a507415e25005b1713f5f68ad6648fcf43) |
+| Ethereum | 11| Creamy Pasta  |:heavy_check_mark: |  [mWBTC](https://etherscan.io/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) |
+| Ethereum | 12| Quinoa Burger  |:heavy_check_mark: |  [mLINK](https://etherscan.io/address/0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c) |
+| Ethereum | 13| Veggie Pizza  |:heavy_check_mark: |  [mZRX](https://etherscan.io/address/0x037B39EdAE767EA692884D51fc697c54e777710e) |
+| Ethereum | 14| Vegetable Dumpling  |:heavy_check_mark: |  [mALCX](https://etherscan.io/address/0x076950237f8c0D27Ac25694c9078F96e535723BC) |
+| Ethereum | 15| Chicken Curry  |:heavy_check_mark: |  [mALUSD](https://etherscan.io/address/0x5DEDEC994C11aB5F9908f33Aed2947F33B67a449) |
+| Ethereum | 16| Spicy Ramen  |:heavy_check_mark: |  [mUSDP3CRV](https://etherscan.io/address/0xe85e9fB53fe5E2fa74Dda1A1010555F55DbD347B) |
+| Ethereum | 17| Malatang  |:heavy_check_mark: |  [mRenBTC](https://etherscan.io/address/0x8c46aDe56409683E5Aa8A73E787d603e7194908F) |
+| Ethereum | 18| Pork Congee  |:heavy_check_mark: |  [MM-ETH UNISWAP LP](https://etherscan.io/address/0x23ab44bfbfb2d60df173c4b89f7e8366474ab05f) |
+| BSC | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b) | 
+| BSC | 1 | Eggy Bread  | :heavy_check_mark: |  [MM-BNB Pancake LP](https://bscscan.com/address/0x34185f91e7D382b0425427B335B8347667782bEB) |
+| BSC | 2 | Beef Omelette  |:heavy_check_mark: |  [mBTCB](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c) |
+| BSC | 3 | Cherry Strudel  |:heavy_check_mark: |  [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555) |
 
 ---
 
@@ -105,5 +109,5 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 ## Integrations
 | Name | Active | Description |
 | --- | --- | --- |
-| [yvWBTC](https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E) and [yStrategy](https://etherscan.io/address/0x53a65c8e238915c79a1e5c366bc133162dbee34f) | :heavy_check_mark: | yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.2) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape-tax-git-poolpi-wbtc-fameal.vercel.app/baghunter) & [bagerdao](https://app.badger.finance/)|
+| [yvWBTC](https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E) and [yStrategy](https://etherscan.io/address/0x53a65c8e238915c79a1e5c366bc133162dbee34f) | :heavy_check_mark: | yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.2) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape.tax/baghunter) & [bagerdao](https://app.badger.finance/)|
 | [yExperimentalWBTC](https://etherscan.io/address/0x0e8A7717A4FD7694682E7005957dD5d7598bF14A) and [yStrategy](https://etherscan.io/address/0xa93cb639ae732559ab9315b3a1615e624c32cc59) | ⭕ | Experimental yVault/[yStrategy](https://github.com/mandalorian-101/brownie-strategy-mix/releases/tag/v0.1) for [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599) on [ape.tax](https://ape.tax/mmwbtc) |
