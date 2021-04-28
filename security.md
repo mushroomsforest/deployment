@@ -61,7 +61,7 @@ We believe they should get fairly awarded for their time and effort and acknowle
 
 ### Rewards
 
--   **Severe:** 4000-10000 USDC
+-   **Severe:** 4000-50000 USDC($25000 in $USDC & $25000 in $MM)
 -   **High:** 800-4000 USDC
 -   **Medium:** 200-800 USDC
 -   **Low:** 50-200 USDC
