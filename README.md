@@ -23,6 +23,8 @@ Masterchef: [0xf8873a6080e8dbf41ada900498de0951074af577](https://etherscan.io/ad
 
 Masterchef on BSC: [0x36cb43EB6F5168a1f8310b030a4De6B3B58B4664](https://bscscan.com/address/0x36cb43EB6F5168a1f8310b030a4De6B3B58B4664)
 
+Masterchef on FTM: [0x6539c525f74c3b8ce16fd4e89208a518e3bec7ff](https://ftmscan.com/address/0x6539c525f74c3b8ce16fd4e89208a518e3bec7ff)
+
 Governance : [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
 Dev Wallet (cold custody): [0xe80A9BD7bc44f1FcD0Af160459528F4Ecdd38698](https://etherscan.io/address/0xe80A9BD7bc44f1FcD0Af160459528F4Ecdd38698)
@@ -37,6 +39,8 @@ Controller: [0x4bf5059065541a2b176500928e91fbfd0b121d07](https://etherscan.io/ad
 
 Controller on BSC: [0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736](https://bscscan.com/address/0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736)
 
+Controller on FTM: [0x8c9fb580bdce5eb2a36efff597568672a066d6d1](https://ftmscan.com/address/0x8c9fb580bdce5eb2a36efff597568672a066d6d1)
+
 Strategist: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
 Governance: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
@@ -46,6 +50,8 @@ Treasury Wallet (cold custody): [0x3567FDe6092509c0A9AaA66dA9c047979E7B0533](htt
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
 Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://bscscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
+
+Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
 
 | Name | Want | Mushrooms Vault | Strategy | TL;DR | Chain |
 | ---  | --- | --- | --- | --- | --- |
@@ -65,6 +71,8 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 | Rhizopogon Field       | [RenBTC](https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d)              | [mRenBTC](https://etherscan.io/address/0x8c46aDe56409683E5Aa8A73E787d603e7194908F)          | [StrategyUnitRenBTCV1](https://etherscan.io/address/0xF163A5A1c5716b165F977A950F4715E1eC1DEB5C) |  [Collateralized Yield $CRV](https://zapper.fi/dashboard?address=0xF163A5A1c5716b165F977A950F4715E1eC1DEB5C) | Ethereum |
 | Splitgill Field       | [BTCB](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c)              | [mBTCB](https://bscscan.com/address/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304)          | [StrategyVenusBTCBV1](https://bscscan.com/address/0x83bd97772f6Fb49f2abafeEF4895014b374F603E) |  [Leveraged Yield $XVS](https://debank.com/profile/0x83bd97772f6Fb49f2abafeEF4895014b374F603E?chain=bsc) | BSC |
 | Lactarius Field       | [BUSD](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56)              | [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555)          | [StrategyEpsBUSDV1](https://bscscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |  [Yield $EPS](https://debank.com/profile/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373?chain=bsc) | BSC |
+| Teal Basket       | [BOO](https://ftmscan.com/token/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE)              | [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5)          | [StrategySpookyBooV1](https://ftmscan.com/address/0xa6f6ba07bf1bebf18eca9cd546ae72af946a65b9) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0xa6f6ba07bf1bebf18eca9cd546ae72af946a65b9) | FTM |
+| Indigo Basket       | [Spirit](https://ftmscan.com/token/0x5Cc61A78F164885776AA610fb0FE1257df78E59B)              | [mSpirit](https://ftmscan.com/address/0xd21E83422335b21E2e11567c13780a3f3972c0E8)          | [StrategySpiritV1](https://ftmscan.com/address/0xE25191118FB92869081C217fCCefE6ECd50Da7ec) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0xE25191118FB92869081C217fCCefE6ECd50Da7ec) | FTM |
 
 ---
 
@@ -95,6 +103,10 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 | BSC | 1 | Eggy Bread  | :heavy_check_mark: |  [MM-BNB Pancake LP](https://bscscan.com/address/0x34185f91e7D382b0425427B335B8347667782bEB) |
 | BSC | 2 | Beef Omelette  |:heavy_check_mark: |  [mBTCB](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c) |
 | BSC | 3 | Cherry Strudel  |:heavy_check_mark: |  [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555) |
+| FTM | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://ftmscan.com/address/0xbFaf328Fe059c53D936876141f38089df0D1503D) | 
+| FTM | 1 | Magenta  | :heavy_check_mark: |  [MM-FTM Spooky LP](https://ftmscan.com/token/0x3e6ae34fcb270f19fdbe83d506e803fdc402ef65) |
+| FTM | 2 | Lime  |:heavy_check_mark: |  [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5) |
+| FTM | 3 | Navy  |:heavy_check_mark: |  [mSpirit](https://ftmscan.com/address/0xd21E83422335b21E2e11567c13780a3f3972c0E8) |
 
 ---
 
