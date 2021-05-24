@@ -73,6 +73,9 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | Lactarius Field       | [BUSD](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56)              | [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555)          | [StrategyEpsBUSDV1](https://bscscan.com/address/0x921A43AFC2d8687765b40D2cA5d2f69F17d8Ab3F) |  [Yield $EPS](https://zapper.fi/dashboard?address=0x921a43afc2d8687765b40d2ca5d2f69f17d8ab3f) | BSC |
 | Teal Basket       | [BOO](https://ftmscan.com/token/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE)              | [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5)          | [StrategySpookyBooV1](https://ftmscan.com/address/0xa6f6ba07bf1bebf18eca9cd546ae72af946a65b9) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0xa6f6ba07bf1bebf18eca9cd546ae72af946a65b9) | FTM |
 | Indigo Basket       | [Spirit](https://ftmscan.com/token/0x5Cc61A78F164885776AA610fb0FE1257df78E59B)              | [mSpirit](https://ftmscan.com/address/0xd21E83422335b21E2e11567c13780a3f3972c0E8)          | [StrategySpiritV1](https://ftmscan.com/address/0xE25191118FB92869081C217fCCefE6ECd50Da7ec) |  [Auto-Compounding Yield $Spirit](https://zapper.fi/dashboard?address=0xE25191118FB92869081C217fCCefE6ECd50Da7ec) | FTM |
+| Aqua Basket       | [ICE-FTM Spooky LP](https://ftmscan.com/address/0x623EE4a7F290d11C11315994dB70FB148b13021d)              | [mICEFTMSpooLP](https://ftmscan.com/address/0x5f8757eA9CB135E904a7483F2bae780B9DDbd507)          | [StrategyICEFTMSpooLPV1](https://ftmscan.com/address/0x8BC37c23d8185b010E0cA3ceA75BBdF394c12d07) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0x8BC37c23d8185b010E0cA3ceA75BBdF394c12d07) | FTM |
+| Azure Basket       | [BOO-FTM Spooky LP](https://ftmscan.com/address/0xEc7178F4C41f346b2721907F5cF7628E388A7a58)              | [mBOOFTMSpooLP](https://ftmscan.com/address/0xd324fbBDad6960e8003f8ec6B9D9D6B2D847fd12)          | [StrategyBOOFTMSpooLPV1](https://ftmscan.com/address/0x2f1387DD0626F81F433e8CF904eC443d3890Fb06) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0x2f1387DD0626F81F433e8CF904eC443d3890Fb06) | FTM |
+| Coral Basket       | [Spirit-FTM Spirit LP](https://ftmscan.com/address/0x30748322B6E34545DBe0788C421886AEB5297789)              | [mSpiritFTMSpiLP](https://ftmscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373)          | [StrategySpiritFTMSpiLPV1](https://ftmscan.com/address/0xA5022EFF6c6553Bc9600fd897DF8d947Be2aea0b) |  [Auto-Compounding Yield $Spirit](https://zapper.fi/dashboard?address=0xA5022EFF6c6553Bc9600fd897DF8d947Be2aea0b) | FTM |
 
 ---
 
@@ -107,6 +110,10 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | FTM | 1 | Magenta  | :heavy_check_mark: |  [MM-FTM Spooky LP](https://ftmscan.com/token/0x3e6ae34fcb270f19fdbe83d506e803fdc402ef65) |
 | FTM | 2 | Lime  |:heavy_check_mark: |  [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5) |
 | FTM | 3 | Navy  |:heavy_check_mark: |  [mSpirit](https://ftmscan.com/address/0xd21E83422335b21E2e11567c13780a3f3972c0E8) |
+| FTM | 4 | Cyan | :heavy_check_mark: | [mICEFTMSpooLP](https://ftmscan.com/address/0x5f8757eA9CB135E904a7483F2bae780B9DDbd507) | 
+| FTM | 5 | Ivory | :heavy_check_mark: |  [mBOOFTMSpooLP](https://ftmscan.com/address/0xd324fbBDad6960e8003f8ec6B9D9D6B2D847fd12) |
+| FTM | 6 | Crimson  |:heavy_check_mark: |  [mSpiritFTMSpiLP](https://ftmscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
+| FTM | 7 | Maroon  |:heavy_check_mark: |  [MM-FTM Spirit LP](https://ftmscan.com/address/0x971D049B7BDE4ca9192A461708eBB54C8EBC0843) |
 
 ---
 
