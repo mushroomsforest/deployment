@@ -69,8 +69,6 @@ We believe they should get fairly awarded for their time and effort and acknowle
 Actual reward payouts are determined by classifying the vulnerability based on its impact and likelihood to be exploited successfully, as well as the process working with the reporting security developer. 
 The rewards represent the _maximum_ that will be paid out for a security bug reporting.
 
-Rewards are paid out in [USDC](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48).
-
 ### Scope
 
 The scope of the Bug Bounty program spans 1) smart contracts and 2) frontend code utilized in the Mushrooms Finance ecosystem deployed in Ethereum mainnet and the [website](https://mushrooms.finance)
@@ -81,7 +79,7 @@ For other artifacts outside of those mentioned above, please do reach out to the
 - [CoinFabrik report](https://blog.coinfabrik.com/mushroom-finance-smart-contract-audit/) for [this commit](https://github.com/mushroomsforest/deployment/blob/d760b781703bf1aaf9d152197b2ef550820518ae/README.md ) 
 - [Dedaub report](https://github.com/mushroomsforest/deployment/blob/main/audits/Mushrooms%20Finance%20audit-dedaub.pdf) for [this commit](https://github.com/mushroomsforest/deployment/commit/456aeff4e574ea1c01c1d4dc9e1afc6b8404bac3)
 
-## Existing Security Reports
+### Existing Security Reports
 - [ImmuneFi & Xu report](https://medium.com/immunefi/mushrooms-finance-theft-of-yield-bug-fix-postmortem-16bd6961388f)
 - [DAO Review & Alex](https://forum.dao.reviews/t/asking-for-reviews-mushrooms-finance-earning-strategy-on-bsc-to-farming-in-ellipsis-finance/169)
 
