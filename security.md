@@ -80,8 +80,8 @@ For other artifacts outside of those mentioned above, please do reach out to the
 - [Dedaub report](https://github.com/mushroomsforest/deployment/blob/main/audits/Mushrooms%20Finance%20audit-dedaub.pdf) for [this commit](https://github.com/mushroomsforest/deployment/commit/456aeff4e574ea1c01c1d4dc9e1afc6b8404bac3)
 
 ### Existing Security Reports
-- [ImmuneFi & Xu report](https://medium.com/immunefi/mushrooms-finance-theft-of-yield-bug-fix-postmortem-16bd6961388f)
-- [DAO Review & Alex](https://forum.dao.reviews/t/asking-for-reviews-mushrooms-finance-earning-strategy-on-bsc-to-farming-in-ellipsis-finance/169)
+- [ImmuneFi & WenDing report](https://medium.com/immunefi/mushrooms-finance-theft-of-yield-bug-fix-postmortem-16bd6961388f)
+- [DAO Review & Alex analysis](https://forum.dao.reviews/t/asking-for-reviews-mushrooms-finance-earning-strategy-on-bsc-to-farming-in-ellipsis-finance/169)
 
 ## Credits
 
