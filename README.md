@@ -19,6 +19,8 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 
 Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://bscscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
 
+Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
+
 Masterchef: [0xf8873a6080e8dbf41ada900498de0951074af577](https://etherscan.io/address/0xf8873a6080e8dbf41ada900498de0951074af577)
 
 Masterchef on BSC: [0x36cb43EB6F5168a1f8310b030a4De6B3B58B4664](https://bscscan.com/address/0x36cb43EB6F5168a1f8310b030a4De6B3B58B4664)
