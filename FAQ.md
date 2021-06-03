@@ -18,7 +18,7 @@ _[Zap](https://mushrooms.finance/zaps) helps to convert plain single crypto asse
 **What are current fees involved in Mushrooms Finance?**    
 _There are 2 main types of fee now. All fees are used to buyback MM and then distributed proportionally among stakers in Super Mario pool_:
 - _Vaults: 30% performance split_
-- _Vaults: 0.2% potential fee upon withdrawal if the withdrawal amount exceeds reserve buffer the vault currently holds (5% is typically left in Vaults as a reserve buffer while the rest sent to strategies for profit earning job)_
+- _Vaults: No fee upon withdrawal(some legacy Vaults/Strategies may have a negligible 0.001% fee due to a limitation in existing smart contracts)_
 
 **How is the APY/APR calculated?**  
 _We by default display Vault APR based on real-time calculation from underlying earning strategy, instead of APY. For Super Mario farming pool, it also include buyback distribution in additon to basic weekly mining allocation. You could combine both Vault and Farm APR for your invested crypto asset as the final expectd earning rate._
