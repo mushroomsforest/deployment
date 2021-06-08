@@ -108,7 +108,7 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | Ethereum | 19| Phyllo Bundles  |:heavy_check_mark: |  [mYveCRV](https://etherscan.io/address/0xe28b1d0d667824e74b408a02c101cf0c0652d2ea) |
 | BSC | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b) | 
 | BSC | 1 | Eggy Bread  | :heavy_check_mark: |  [MM-BNB Pancake LP](https://bscscan.com/address/0x34185f91e7D382b0425427B335B8347667782bEB) |
-| BSC | 2 | Beef Omelette  |:heavy_check_mark: |  [mBTCB](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c) |
+| BSC | 2 | Beef Omelette  |:heavy_check_mark: |  [mBTCB](https://bscscan.com/address/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304) |
 | BSC | 3 | Cherry Strudel  |:heavy_check_mark: |  [mBUSD](https://bscscan.com/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555) |
 | FTM | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://ftmscan.com/address/0xbFaf328Fe059c53D936876141f38089df0D1503D) | 
 | FTM | 1 | Magenta  | :heavy_check_mark: |  [MM-FTM Spooky LP](https://ftmscan.com/token/0x3e6ae34fcb270f19fdbe83d506e803fdc402ef65) |
