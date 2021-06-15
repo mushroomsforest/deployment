@@ -121,6 +121,15 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 
 ---
 
+## MushMon
+
+
+| Chain | Name | Active | TL;DR | 
+| --- | --- | --- | --- |
+| BSC | MushMon(pilot)  | :heavy_check_mark: | [MushMon pilot smart contract](https://bscscan.com/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) | 
+| BSC | LeverageShannonMon (pilot)  | :heavy_check_mark: | [LeverageShannonMon pilot smart contract](https://bscscan.com/address/0xB86eace0Ce0d3f463B415e8B3463e331F1d95b6e) |
+
+---
 
 ## Keeper3R jobs
 
