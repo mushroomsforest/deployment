@@ -82,6 +82,7 @@ For other artifacts outside of those mentioned above, please do reach out to the
 ### Existing Security Reports
 - [ImmuneFi & WenDing report](https://medium.com/immunefi/mushrooms-finance-theft-of-yield-bug-fix-postmortem-16bd6961388f)
 - [DAO Review & Alex analysis](https://forum.dao.reviews/t/asking-for-reviews-mushrooms-finance-earning-strategy-on-bsc-to-farming-in-ellipsis-finance/169)
+- [ImmuneFi & CKKSec report](https://medium.com/immunefi/mushrooms-finance-logic-error-bug-fix-postmortem-780122821621)
 
 ## Credits
 
