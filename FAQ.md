@@ -1,7 +1,7 @@
 ## Mushrooms Finance FAQ
 
 **One sentence to describe Mushrooms Finance?**  
-_[Mushrooms Finance](https://mushrooms.finance/) is built with focus on seeking sustainable profit in DeFi universe._
+_[Mushrooms Finance](https://mushrooms.finance/) is designed for optimized earning on multiple chains and built with focus on seeking sustainable profit in DeFi universe._
 
 **What are Mushrooms Vaults?**  
 _Vaults help to earn passive profit on crypto assets like WETH/WBTC/DAI/USDC, etc. For example, the earning strategies associated with the Vaults will automate your yield farming on Alchemix or Curve by auto-compounding the profit, i.e., Vaults get appreciation in denomination of whatever token you deposited. You will receive mTokens upon Vault deposit which represent your share in that Vault. When you withdraw from the Vault, the mToken share allows you withdraw both principle plus earned profit over the deposit period._  
