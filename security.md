@@ -78,6 +78,7 @@ For other artifacts outside of those mentioned above, please do reach out to the
 ### Existing Audits
 - [CoinFabrik report](https://blog.coinfabrik.com/mushroom-finance-smart-contract-audit/) for [this commit](https://github.com/mushroomsforest/deployment/blob/d760b781703bf1aaf9d152197b2ef550820518ae/README.md ) 
 - [Dedaub report](https://github.com/mushroomsforest/deployment/blob/main/audits/Mushrooms%20Finance%20audit-dedaub.pdf) for [this commit](https://github.com/mushroomsforest/deployment/commit/456aeff4e574ea1c01c1d4dc9e1afc6b8404bac3)
+- [PeckShield report](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Mushrooms-v1.0.pdf) for [this commit](https://github.com/mushroomsforest/deployment/commit/ca588dcbe1b1dc647db3704ddc29bf5fb63e0ec0)
 
 ### Existing Security Reports
 - [ImmuneFi & WenDing report](https://medium.com/immunefi/mushrooms-finance-theft-of-yield-bug-fix-postmortem-16bd6961388f)
