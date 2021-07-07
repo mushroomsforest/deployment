@@ -112,6 +112,7 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | Ethereum | 18| Pork Congee  |:heavy_check_mark: |  [MM-ETH UNISWAP LP](https://etherscan.io/address/0x23ab44bfbfb2d60df173c4b89f7e8366474ab05f) |
 | Ethereum | 19| Phyllo Bundles  |:heavy_check_mark: |  [mYveCRV](https://etherscan.io/address/0xe28b1d0d667824e74b408a02c101cf0c0652d2ea) |
 | Ethereum | 20| Bacon Sandwich  |:heavy_check_mark: |  [mTUSD](https://etherscan.io/address/0x05c85ed5fd1a2088b42021f7ac42bad709da844a) |
+| Ethereum | 21| Beef Stew  |:heavy_check_mark: |  [mCVX](https://etherscan.io/address/0x1B428B6C389E25133bf0f466Fc5d3E2764F3582b) |
 | BSC | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b) | 
 | BSC | 1 | Eggy Bread  | :heavy_check_mark: |  [MM-BNB Pancake LP](https://bscscan.com/address/0x34185f91e7D382b0425427B335B8347667782bEB) |
 | BSC | 2 | Beef Omelette  |:heavy_check_mark: |  [mBTCB](https://bscscan.com/address/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304) |
