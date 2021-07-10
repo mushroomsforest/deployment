@@ -84,6 +84,7 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | Aqua Basket       | [ICE-FTM Spooky LP](https://ftmscan.com/address/0x623EE4a7F290d11C11315994dB70FB148b13021d)              | [mICEFTMSpooLP](https://ftmscan.com/address/0x5f8757eA9CB135E904a7483F2bae780B9DDbd507)          | [StrategyICEFTMSpooLPV1](https://ftmscan.com/address/0x8BC37c23d8185b010E0cA3ceA75BBdF394c12d07) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0x8BC37c23d8185b010E0cA3ceA75BBdF394c12d07) | FTM |
 | Azure Basket       | [BOO-FTM Spooky LP](https://ftmscan.com/address/0xEc7178F4C41f346b2721907F5cF7628E388A7a58)              | [mBOOFTMSpooLP](https://ftmscan.com/address/0xd324fbBDad6960e8003f8ec6B9D9D6B2D847fd12)          | [StrategyBOOFTMSpooLPV1](https://ftmscan.com/address/0x2f1387DD0626F81F433e8CF904eC443d3890Fb06) |  [Auto-Compounding Yield $BOO](https://zapper.fi/dashboard?address=0x2f1387DD0626F81F433e8CF904eC443d3890Fb06) | FTM |
 | Coral Basket       | [Spirit-FTM Spirit LP](https://ftmscan.com/address/0x30748322B6E34545DBe0788C421886AEB5297789)              | [mSpiritFTMSpiLP](https://ftmscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373)          | [StrategySpiritFTMSpiLPV1](https://ftmscan.com/address/0xA5022EFF6c6553Bc9600fd897DF8d947Be2aea0b) |  [Auto-Compounding Yield $Spirit](https://zapper.fi/dashboard?address=0xA5022EFF6c6553Bc9600fd897DF8d947Be2aea0b) | FTM |
+| Fuschia Basket       | [USDC](https://ftmscan.com/token/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75)              | [mUSDC](https://ftmscan.com/address/0x70b89c91ffcc6bd3325419ff63b23cd50d515bc2)          | [StrategyCurveUSDCV1](https://ftmscan.com/address/0x1704eea9deff3defc9912136dc471dab9ad8142d) |  [Auto-Compounding Yield $CRV](https://zapper.fi/dashboard?address=0x1704eea9deff3defc9912136dc471dab9ad8142d) | FTM |
 
 ---
 
@@ -128,6 +129,7 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | FTM | 5 | Ivory | :heavy_check_mark: |  [mBOOFTMSpooLP](https://ftmscan.com/address/0xd324fbBDad6960e8003f8ec6B9D9D6B2D847fd12) |
 | FTM | 6 | Crimson  |:heavy_check_mark: |  [mSpiritFTMSpiLP](https://ftmscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
 | FTM | 7 | Maroon  |:heavy_check_mark: |  [MM-FTM Spirit LP](https://ftmscan.com/address/0x971D049B7BDE4ca9192A461708eBB54C8EBC0843) |
+| FTM | 8 | Orchid  |:heavy_check_mark: |  [mUSDC](https://ftmscan.com/address/0x70b89c91ffcc6bd3325419ff63b23cd50d515bc2) |
 
 ---
 
