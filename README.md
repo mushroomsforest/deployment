@@ -55,8 +55,8 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 
 Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
 
-| Name | Want | Mushrooms Vault | Strategy | TL;DR | Possible Slippage in AMM for deposited/intermeidate tokens | Chain |
-| ---  | --- | --- | --- | --- | --- |
+| Name | Want | Mushrooms Vault | Strategy | TL;DR | Possible Slippage in AMM for deposited/intermediate tokens | Chain |
+| ---  | --- | --- | --- | --- | --- | --- |
 | Matsutake Field       | [3CRV](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)              | [m3CRV](https://etherscan.io/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069)          | [StrategyCurve3CRVv1](https://etherscan.io/address/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7) | [Yield $CRV](https://zapper.fi/dashboard?address=0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7) | NO | Ethereum |
 | Boletus Field       | [crvRENWBTC](https://etherscan.io/address/0x49849c98ae39fff122806c06791fa73784fb3675)              | [mcrvRenWBTC](https://etherscan.io/address/0x1e074d6da2987f0cb5a44f2ab1c5bfeddd81f23f)          | [StrategyCurveRENWBTCv1](https://etherscan.io/address/0x5a709dfa094273795b787caafc6855a120b2bebd) | [Yield $CRV](https://zapper.fi/dashboard?address=0x5a709dfa094273795b787caafc6855a120b2bebd) | NO | Ethereum |
 | Kikurage Field       | [DAI](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)              | [mDAI](https://etherscan.io/address/0x6802377968857656fe8ae47fbece76aae588eef7)          | [StrategyCmpdDaiV1](https://etherscan.io/address/0xc48E1e2a61121c84D96957e696A4A283615559d1) | [Leveraged Yield $COMP](https://app.zerion.io/0xc48e1e2a61121c84d96957e696a4a283615559d1/overview) | NO | Ethereum |
