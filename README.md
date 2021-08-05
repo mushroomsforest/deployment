@@ -124,6 +124,8 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | BSC | 4 | Omelette Curry  |:heavy_check_mark: |  [mEPS](https://bscscan.com/address/0x386A8DCf07dc3Aa882Aa0A8f8Ee90473c177F6f3) |
 | BSC | 5 | Sirloin Steak  |:heavy_check_mark: |  [mLOWB](https://bscscan.com/address/0xa1c6670f5b040831156641a669f0dca318272f7f) |
 | BSC | 6 | Pork Tenderloin  |:heavy_check_mark: |  [mLOWBUSDT](https://bscscan.com/address/0x73142be337c11f9c962b4aba80edebcfbc47e1e6) |
+| BSC | 7 | Larb Ubol  |:heavy_check_mark: |  [mCAKE](https://bscscan.com/address/0x4dDf7F8Ad6457bECcDFEA9c11006a77A4307c94B) |
+| BSC | 8 | Barley Broth  |:heavy_check_mark: |  [mXVS](https://bscscan.com/address/0xFE526BcD5aD38F28C685BDb045B4c1E30f19F224) |
 | FTM | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://ftmscan.com/address/0xbFaf328Fe059c53D936876141f38089df0D1503D) | 
 | FTM | 1 | Magenta  | :heavy_check_mark: |  [MM-FTM Spooky LP](https://ftmscan.com/token/0x3e6ae34fcb270f19fdbe83d506e803fdc402ef65) |
 | FTM | 2 | Lime  |:heavy_check_mark: |  [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5) |
