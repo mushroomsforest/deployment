@@ -143,6 +143,8 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 
 | Chain | Name | Active | TL;DR | 
 | --- | --- | --- | --- |
+| BSC | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://bscscan.com/address/0xa50f2928e11bfe3bD9b0de45182916e6E1Ad6F0e) | 
+| BSC | LeverageShannonMon  | :heavy_check_mark: | [LeverageShannonMon smart contract](https://bscscan.com/address/0x80618a3b174e3339970b041542578e3823834910) |
 | BSC | MushMon(pilot)  | ⭕ | [MushMon pilot smart contract](https://bscscan.com/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) | 
 | BSC | LeverageShannonMon (pilot)  | ⭕ | [LeverageShannonMon pilot smart contract](https://bscscan.com/address/0xB86eace0Ce0d3f463B415e8B3463e331F1d95b6e) |
 
