@@ -151,10 +151,11 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 
 ---
 
-## Keeper3R jobs
+## Automation Jobs
 
 | Name | Active | Description |
 | --- | --- | --- |
+| [Generic ChainLink UpKeep for Mushrooms](https://etherscan.io/address/0x031D40daEbf78b12070e2BC8dde0050422746b06)  | :heavy_check_mark: | UpKeep to for WETH strategy [`harvest`](https://keepers.chain.link/mainnet/upkeeps/37) & [`keepMinRatio`](https://keepers.chain.link/mainnet/upkeeps/36) and [sample here](https://gist.github.com/mushroomsforest/b14377af2c3fd6a709ced8f28a163116) |
 | [Generic Keep3r V2 for Mushrooms](https://etherscan.io/address/0x0bD1d668d8E83d14252F2e01D5873df77A6511f0)  | :heavy_check_mark: | Keeper jobs to for all vaults & strategies, [sample here](https://github.com/keep3r-network/keep3r.network/pull/52), [stats here](https://keep3r.live/job/0x0bd1d668d8e83d14252f2e01d5873df77a6511f0) |
 | [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | ⭕ | Keeper jobs to harvest profits for [2 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1, [sample here](https://github.com/keep3r-network/keep3r.network/pull/47/files) |
 
