@@ -136,6 +136,8 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | FTM | 6 | Crimson  |:heavy_check_mark: |  [mSpiritFTMSpiLP](https://ftmscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
 | FTM | 7 | Maroon  |:heavy_check_mark: |  [MM-FTM Spirit LP](https://ftmscan.com/address/0x971D049B7BDE4ca9192A461708eBB54C8EBC0843) |
 | FTM | 8 | Orchid  |:heavy_check_mark: |  [mUSDC](https://ftmscan.com/address/0x70b89c91ffcc6bd3325419ff63b23cd50d515bc2) |
+| FTM | 9 | Tan  |:heavy_check_mark: |  [mWBTC](https://ftmscan.com/address/0x3371d92e633f7a49fcfa9114e55dafc485bd413b) |
+| FTM | 10 | Khaki  |:heavy_check_mark: |  [mWFTM](https://ftmscan.com/address/0xe09CD96100A0e9a19e064dc475568a428515d2e2) |
 
 ---
 
