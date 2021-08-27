@@ -15,11 +15,15 @@ MM Token on Fantom: [0xbFaf328Fe059c53D936876141f38089df0D1503D](https://ftmscan
 
 MM Token on BSC: [0x73f059db0182dc2ed716d028e1b13033cfcbf63b](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b)
 
+MM Token on Polygon: [0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a](https://polygoncan.com/address/0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a)
+
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
 Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://bscscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
 
 Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
+
+Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://polygonscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
 
 Masterchef: [0xf8873a6080e8dbf41ada900498de0951074af577](https://etherscan.io/address/0xf8873a6080e8dbf41ada900498de0951074af577)
 
@@ -43,6 +47,8 @@ Controller on BSC: [0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736](https://bscscan.
 
 Controller on FTM: [0x8c9fb580bdce5eb2a36efff597568672a066d6d1](https://ftmscan.com/address/0x8c9fb580bdce5eb2a36efff597568672a066d6d1)
 
+Controller on Polygon: [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://polygonscan.com/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
+
 Strategist: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
 Governance: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
@@ -54,6 +60,8 @@ Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://ethers
 Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://bscscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
 
 Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
+
+Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://polygonscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
 
 | Name | Want | Mushrooms Vault | Strategy | TL;DR | Possible Slippage in AMM for deposited/intermediate tokens | Chain |
 | ---  | --- | --- | --- | --- | --- | --- |
@@ -89,6 +97,9 @@ Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https:/
 | Fuschia Basket       | [USDC](https://ftmscan.com/token/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75)              | [mUSDC](https://ftmscan.com/address/0x70b89c91ffcc6bd3325419ff63b23cd50d515bc2)          | [StrategyCurveUSDCV1](https://ftmscan.com/address/0x1704eea9deff3defc9912136dc471dab9ad8142d) |  [Auto-Compounding Yield $CRV](https://zapper.fi/account/0x1704eea9deff3defc9912136dc471dab9ad8142d) | YES([USDC in Curve](https://ftm.curve.fi/2pool)) | FTM |
 | Thistle Basket       | [WBTC](https://ftmscan.com/token/0x321162Cd933E2Be498Cd2267a90534A804051b11)              | [mWBTC](https://ftmscan.com/address/0x3371d92e633f7a49fcfa9114e55dafc485bd413b)          | [StrategyCurveWBTCV1](https://ftmscan.com/address/0x374513251ef47db34047f07998e31740496c6faa) |  [Auto-Compounding Yield $CRV](https://zapper.fi/account/0x374513251ef47db34047f07998e31740496c6faa) | YES([BTC in Curve](https://ftm.curve.fi/ren)) | FTM |
 | Turquoise Basket       | [WFTM](https://ftmscan.com/token/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83)              | [mWFTM](https://ftmscan.com/address/0xe09CD96100A0e9a19e064dc475568a428515d2e2)          | [StrategyScreamWFTMV1](https://ftmscan.com/address/0x40Fea7c97403Fc24137a35B0C6D727B908aD559F) |  [Auto-Compounding Yield $SCREAM](https://zapper.fi/account/0x40Fea7c97403Fc24137a35B0C6D727B908aD559F) | NO | FTM |
+| Mercury       | [USDC](https://polygonscan.com/token/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174)              | [mUSDC](https://polygonscan.com/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304)          | [StrategyCurveUSDCV1](https://polygonscan.com/address/0xc26164a7caacb92879cbd188ec3d71e26709249d) |  [Auto-Compounding Yield $CRV & $MATIC](https://debank.com/profile/0xc26164a7caacb92879cbd188ec3d71e26709249d?chain=matic) | YES[USDC in Curve](https://polygon.curve.fi/aave/) | POLYGON |
+| Uranus       | [WBTC](https://polygonscan.com/token/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6)              | [mWBTC](https://polygonscan.com/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069)          | [StrategyCurveWBTCV1](https://polygonscan.com/address/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7) |  [Auto-Compounding Yield $CRV & $MATIC](https://debank.com/profile/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7?chain=matic) | YES[WBTC in Curve](https://polygon.curve.fi/ren/) | POLYGON |
+
 
 ---
 
