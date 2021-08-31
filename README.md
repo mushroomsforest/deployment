@@ -157,6 +157,8 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 
 | Chain | Name | Active | TL;DR | 
 | --- | --- | --- | --- |
+| FTM | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://ftmscan.com/address/0x883fB00742161DCe2235bbF4a67df84cd0e50c08) | 
+| FTM | LeverageShannonMon  | :heavy_check_mark: | [LeverageShannonMon smart contract](https://ftmscan.com/address/0x11d1cBF2eE1310E8a4e8887421624E28A86a8aD4) |
 | BSC | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://bscscan.com/address/0xa50f2928e11bfe3bD9b0de45182916e6E1Ad6F0e) | 
 | BSC | LeverageShannonMon  | :heavy_check_mark: | [LeverageShannonMon smart contract](https://bscscan.com/address/0x80618a3b174e3339970b041542578e3823834910) |
 | BSC | MushMon(pilot)  | ⭕ | [MushMon pilot smart contract](https://bscscan.com/address/0xb06661A221Ab2Ec615531f9632D6Dc5D2984179A) | 
