@@ -137,6 +137,7 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 | BSC | 6 | Pork Tenderloin  |:heavy_check_mark: |  [mLOWBUSDT](https://bscscan.com/address/0x73142be337c11f9c962b4aba80edebcfbc47e1e6) |
 | BSC | 7 | Larb Ubol  |:heavy_check_mark: |  [mCAKE](https://bscscan.com/address/0x4dDf7F8Ad6457bECcDFEA9c11006a77A4307c94B) |
 | BSC | 8 | Barley Broth  |:heavy_check_mark: |  [mXVS](https://bscscan.com/address/0xFE526BcD5aD38F28C685BDb045B4c1E30f19F224) |
+| BSC | 9 | Girolle  |:heavy_check_mark: |  [mALPACA](https://bscscan.com/address/0x064213bc8cd6980efE41A4247f0Ed5e99257E5f9) |
 | FTM | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://ftmscan.com/address/0xbFaf328Fe059c53D936876141f38089df0D1503D) | 
 | FTM | 1 | Magenta  | :heavy_check_mark: |  [MM-FTM Spooky LP](https://ftmscan.com/token/0x3e6ae34fcb270f19fdbe83d506e803fdc402ef65) |
 | FTM | 2 | Lime  |:heavy_check_mark: |  [mBOO](https://ftmscan.com/address/0xE71FD0dC4c0349C320053B865a95aE29c09b92B5) |
