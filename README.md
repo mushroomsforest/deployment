@@ -149,6 +149,7 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 | FTM | 8 | Orchid  |:heavy_check_mark: |  [mUSDC](https://ftmscan.com/address/0x70b89c91ffcc6bd3325419ff63b23cd50d515bc2) |
 | FTM | 9 | Tan  |:heavy_check_mark: |  [mWBTC](https://ftmscan.com/address/0x3371d92e633f7a49fcfa9114e55dafc485bd413b) |
 | FTM | 10 | Khaki  |:heavy_check_mark: |  [mWFTM](https://ftmscan.com/address/0xe09CD96100A0e9a19e064dc475568a428515d2e2) |
+| FTM | 11 | Goldenrod  |:heavy_check_mark: |  [mLINK](https://ftmscan.com/address/0x4471332148688fAA64705a39ec630A6AD692B40a) |
 
 ---
 
