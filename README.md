@@ -12,7 +12,7 @@ MM Token on Fantom: [0xbFaf328Fe059c53D936876141f38089df0D1503D](https://ftmscan
 
 MM Token on BSC: [0x73f059db0182dc2ed716d028e1b13033cfcbf63b](https://bscscan.com/address/0x73f059db0182dc2ed716d028e1b13033cfcbf63b)
 
-MM Token on Polygon: [0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a](https://polygoncan.com/address/0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a)
+MM Token on Polygon: [0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a](https://polygonscan.com/address/0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a)
 
 Timelock (24 hours): [0x5dae9b27313670663b34ac8bffd18825bb9df736](https://etherscan.io/address/0x5dae9b27313670663b34ac8bffd18825bb9df736)
 
