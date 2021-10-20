@@ -28,6 +28,8 @@ Masterchef on BSC: [0x36cb43EB6F5168a1f8310b030a4De6B3B58B4664](https://bscscan.
 
 Masterchef on FTM: [0x6539c525f74c3b8ce16fd4e89208a518e3bec7ff](https://ftmscan.com/address/0x6539c525f74c3b8ce16fd4e89208a518e3bec7ff)
 
+Masterchef on Polygon: [0xB71353b0152084328c5C8a04c83cd9FFb3619944](https://polygonscan.com/address/0xB71353b0152084328c5C8a04c83cd9FFb3619944)
+
 Governance : [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
 Dev Wallet (cold custody): [0xe80A9BD7bc44f1FcD0Af160459528F4Ecdd38698](https://etherscan.io/address/0xe80A9BD7bc44f1FcD0Af160459528F4Ecdd38698)
@@ -151,6 +153,11 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 | FTM | 9 | Tan  |:heavy_check_mark: |  [mWBTC](https://ftmscan.com/address/0x3371d92e633f7a49fcfa9114e55dafc485bd413b) |
 | FTM | 10 | Khaki  |:heavy_check_mark: |  [mWFTM](https://ftmscan.com/address/0xe09CD96100A0e9a19e064dc475568a428515d2e2) |
 | FTM | 11 | Goldenrod  |:heavy_check_mark: |  [mLINK](https://ftmscan.com/address/0x4471332148688fAA64705a39ec630A6AD692B40a) |
+| FTM | 12 | Chartreuse  |:heavy_check_mark: |  [mCrv3Crypto](https://ftmscan.com/address/0x771fbBc372045424fE51Dc761F728870a5a7e933) |
+| Polygon | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://polygonscan.com/address/0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a) | 
+| Polygon | 1 | Aries  | :heavy_check_mark: |  [MM-MATIC QuickSwap LP](https://polygonscan.com/token/0x96f8a62C97a05D2680A5F556CFB1A6b9154BF70e) |
+| Polygon | 2 | Taurus  |:heavy_check_mark: |  [mUSDC](https://polygonscan.com/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
+| Polygon | 3 | Gemini  |:heavy_check_mark: |  [mWBTC](https://polygonscan.com/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
 
 ---
 
