@@ -46,7 +46,7 @@ Controller on BSC: [0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736](https://bscscan.
 
 Controller on FTM: [0x8c9fb580bdce5eb2a36efff597568672a066d6d1](https://ftmscan.com/address/0x8c9fb580bdce5eb2a36efff597568672a066d6d1)
 
-Controller on Polygon: [0x2c667eFA9966498ebCbE00628A8D403CFcA0aef8](https://polygonscan.com/address/0x2c667eFA9966498ebCbE00628A8D403CFcA0aef8)
+Controller on Polygon: [0xc3c4f804cd3e98b048cfb5a30d745a527cdc4e3b](https://polygonscan.com/address/0xc3c4f804cd3e98b048cfb5a30d745a527cdc4e3b)
 
 Strategist: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
