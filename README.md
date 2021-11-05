@@ -159,6 +159,7 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 | Polygon | 1 | Aries  | :heavy_check_mark: |  [MM-MATIC QuickSwap LP](https://polygonscan.com/token/0x96f8a62C97a05D2680A5F556CFB1A6b9154BF70e) |
 | Polygon | 2 | Taurus  |:heavy_check_mark: |  [mUSDC](https://polygonscan.com/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
 | Polygon | 3 | Gemini  |:heavy_check_mark: |  [mWBTC](https://polygonscan.com/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
+| Polygon | 4 | Leo|:heavy_check_mark: |  [mCrv3Crypto](https://polygonscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
 
 ---
 
