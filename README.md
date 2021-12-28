@@ -48,6 +48,8 @@ Controller on FTM: [0x8c9fb580bdce5eb2a36efff597568672a066d6d1](https://ftmscan.
 
 Controller on Polygon: [0xc3c4f804cd3e98b048cfb5a30d745a527cdc4e3b](https://polygonscan.com/address/0xc3c4f804cd3e98b048cfb5a30d745a527cdc4e3b)
 
+Controller on Avalanche: [0xd9e13f990240553fd90ed4a2d314a6bc5850e32b](https://snowtrace.io/address/0xd9e13f990240553fd90ed4a2d314a6bc5850e32b)
+
 Strategist: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
 
 Governance: [0x43229759E12eFbe3e2A0fB0510B15e516d046442](https://etherscan.io/address/0x43229759E12eFbe3e2A0fB0510B15e516d046442)
@@ -61,6 +63,8 @@ Timelock on BSC (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https:/
 Timelock on FTM (24 hours): [0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6](https://ftmscan.com/address/0x43b17a7e0306bf2b2b92cdc100727c3615ff58a6)
 
 Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](https://polygonscan.com/address/0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405)
+
+Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](https://snowtrace.io/address/0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555)
 
 | Name | Want | Mushrooms Vault | Strategy | TL;DR | Possible Slippage in AMM for deposited/intermediate tokens | Chain |
 | ---  | --- | --- | --- | --- | --- | --- |
@@ -104,6 +108,9 @@ Timelock on Polygon (24 hours): [0xe7e1c319164deb0786a2c9244bf8e0dbc51b6405](htt
 | Uranus       | [WBTC](https://polygonscan.com/token/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6)              | [mWBTC](https://polygonscan.com/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069)          | [StrategyCurveWBTCV1](https://polygonscan.com/address/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7) |  [Auto-Compounding Yield $CRV & $MATIC](https://debank.com/profile/0x1f11055eb66f2bba647fb1adc64b0dd4e0018de7?chain=matic) | YES([WBTC in Curve](https://polygon.curve.fi/ren/)) | POLYGON |
 | Jupiter       | [crv3Crypto](https://polygonscan.com/token/0xdad97f7713ae9437fa9249920ec8507e5fbb23d3)              | [mCrv3Crypto](https://polygonscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373)          | [StrategyCrv3CryptoV1](https://polygonscan.com/address/0x2f1387DD0626F81F433e8CF904eC443d3890Fb06) |  [Auto-Compounding Yield $CRV & $MATIC](https://debank.com/profile/0x2f1387DD0626F81F433e8CF904eC443d3890Fb06?chain=matic) | NO | POLYGON |
 | Neptune       | [WMATIC](https://polygonscan.com/token/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270)              | [mWMATIC](https://polygonscan.com/address/0xC126A5f0688E87E4069159ad9Bd3cbe4EeEaD165)          | [StrategyAaveMaticV1](https://polygonscan.com/address/0xbBd58B38F19F6973d6F25Ae688005047F21b3ca8) |  [Leveraged Yield $MATIC](https://debank.com/profile/0xbBd58B38F19F6973d6F25Ae688005047F21b3ca8?chain=matic) | NO | POLYGON |
+| Amethyst       | [USDC](https://snowtrace.io/token/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664)              | [mUSDC](https://snowtrace.io/address/0xa33b55d868e57b20df957ddc2f044f09f676967b)          | [StrategyCurveUSDCV1](https://snowtrace.io/address/0xcbce8f686d05c76513d649ad286d99fd1a06059c) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0xcbce8f686d05c76513d649ad286d99fd1a06059c?chain=avax) | YES([USDC in Curve](https://avax.curve.fi/aave/)) | AVALANCHE |
+| Ammolite       | [WBTC](https://snowtrace.io/token/0x50b7545627a5162F82A992c33b87aDc75187B218)              | [mWBTC](https://snowtrace.io/address/0x78ff341f2db10c10a7562227c7a28bc93bb0fbcf)          | [StrategyCurveWBTCV1](https://snowtrace.io/address/0x43d5c1a973381c89ea3dc2a455e9c895530da735) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0x43d5c1a973381c89ea3dc2a455e9c895530da735?chain=avax) | YES([WBTC in Curve](https://avax.curve.fi/ren/)) | AVALANCHE |
+| Apatite       | [crv3Crypto](https://snowtrace.io/token/0x1daB6560494B04473A0BE3E7D83CF3Fdf3a51828)              | [mCrv3Crypto](https://snowtrace.io/address/0xdd21bc823d58845f6126c9cef052a2d4340a07c8)          | [StrategyCrv3CryptoV1](https://snowtrace.io/address/0x4ef509026d904f8236dac70d74a3d5b632ede9ea) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0x4ef509026d904f8236dac70d74a3d5b632ede9ea?chain=avax) | NO | AVALANCHE |
 
 
 ---
