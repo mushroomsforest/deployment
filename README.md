@@ -166,6 +166,7 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 | FTM | 10 | Khaki  |:heavy_check_mark: |  [mWFTM](https://ftmscan.com/address/0xe09CD96100A0e9a19e064dc475568a428515d2e2) |
 | FTM | 11 | Goldenrod  |:heavy_check_mark: |  [mLINK](https://ftmscan.com/address/0x4471332148688fAA64705a39ec630A6AD692B40a) |
 | FTM | 12 | Chartreuse  |:heavy_check_mark: |  [mCrv3Crypto](https://ftmscan.com/address/0x771fbBc372045424fE51Dc761F728870a5a7e933) |
+| FTM | 13 | Azure  |:heavy_check_mark: |  [mTUSD](https://ftmscan.com/address/0x91B6d34679fdEae095B3873b39c5f17C59044339) |
 | Polygon | 0 | Super Mario  | :heavy_check_mark: | [MM Token](https://polygonscan.com/address/0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a) | 
 | Polygon | 1 | Aries  | :heavy_check_mark: |  [MM-MATIC QuickSwap LP](https://polygonscan.com/token/0x96f8a62C97a05D2680A5F556CFB1A6b9154BF70e) |
 | Polygon | 2 | Taurus  |:heavy_check_mark: |  [mUSDC](https://polygonscan.com/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304) |
