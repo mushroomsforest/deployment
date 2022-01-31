@@ -196,7 +196,7 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 
 | Name | Active | Description |
 | --- | --- | --- |
-| [Generic ChainLink UpKeep for Mushrooms](https://etherscan.io/address/0x031D40daEbf78b12070e2BC8dde0050422746b06)  | :heavy_check_mark: | ChainLink UpKeep for WETH strategy [`keepMinRatio`](https://keepers.chain.link/mainnet/58) & WBTC strategy [`keepMinRatio`](https://keepers.chain.link/mainnet/66) and [sample here](https://gist.github.com/mushroomsforest/b14377af2c3fd6a709ced8f28a163116) |
+| [Generic ChainLink UpKeep for Mushrooms](https://etherscan.io/address/0x031D40daEbf78b12070e2BC8dde0050422746b06)  | :heavy_check_mark: | ChainLink UpKeep for WETH strategy [`keepMinRatio`](https://keepers.chain.link/mainnet/67) & WBTC strategy [`keepMinRatio`](https://keepers.chain.link/mainnet/66) and [sample here](https://gist.github.com/mushroomsforest/b14377af2c3fd6a709ced8f28a163116) |
 | [Keep3r V1 Job for Mushrooms](https://etherscan.io/address/0x0bD1d668d8E83d14252F2e01D5873df77A6511f0)  | :heavy_check_mark: | Keep3r jobs to for all vaults & strategies, [KP3R-V1 keeper script sample here](https://github.com/keep3r-network/keep3r.network/pull/52), [stats here](https://keep3r.live/job/0x0bd1d668d8e83d14252f2e01d5873df77a6511f0), [KP3R-V2-CLI compatible job repo here](https://github.com/mushroomsforest/keep3r-cli-job) |
 | [Generic Strategy Keep3r for Mushrooms harvest](https://etherscan.io/address/0x4E504c6ca43cD1bBd9096A2c2E77A176D10910B1)  | ⭕ | Keeper jobs to harvest profits for [2 strategies:](#earning-vaults) StrategyCurve3CRVv1/StrategyCurveRENWBTCv1, [sample here](https://github.com/keep3r-network/keep3r.network/pull/47/files) |
 
