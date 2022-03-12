@@ -113,6 +113,7 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 | Amethyst       | [USDC.e](https://snowtrace.io/token/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664)              | [mUSDC.e](https://snowtrace.io/address/0xa33b55d868e57b20df957ddc2f044f09f676967b)          | [StrategyCurveUSDCV1](https://snowtrace.io/address/0xcbce8f686d05c76513d649ad286d99fd1a06059c) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0xcbce8f686d05c76513d649ad286d99fd1a06059c?chain=avax) | YES([USDC.e in Curve](https://avax.curve.fi/aave/)) | AVALANCHE |
 | Ammolite       | [WBTC.e](https://snowtrace.io/token/0x50b7545627a5162F82A992c33b87aDc75187B218)              | [mWBTC.e](https://snowtrace.io/address/0x78ff341f2db10c10a7562227c7a28bc93bb0fbcf)          | [StrategyCurveWBTCV1](https://snowtrace.io/address/0x43d5c1a973381c89ea3dc2a455e9c895530da735) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0x43d5c1a973381c89ea3dc2a455e9c895530da735?chain=avax) | YES([WBTC.e in Curve](https://avax.curve.fi/ren/)) | AVALANCHE |
 | Apatite       | [crv3Crypto](https://snowtrace.io/token/0x1daB6560494B04473A0BE3E7D83CF3Fdf3a51828)              | [mCrv3Crypto](https://snowtrace.io/address/0xdd21bc823d58845f6126c9cef052a2d4340a07c8)          | [StrategyCrv3CryptoV1](https://snowtrace.io/address/0x4ef509026d904f8236dac70d74a3d5b632ede9ea) |  [Auto-Compounding Yield $CRV & $AVAX](https://debank.com/profile/0x4ef509026d904f8236dac70d74a3d5b632ede9ea?chain=avax) | NO | AVALANCHE |
+| Kunzite       | [WAVAX](https://snowtrace.io/token/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7)              | [mWAVAX](https://snowtrace.io/address/0x8F288A56A6c06ffc75994a2d46E84F8bDa1a0744)          | [StrategyBenqiWAVAXV1](https://snowtrace.io/address/0x4bB668c1D51B8A2A5Bd6dDC643296432f6adaA26) |  [Leveraged Yield $QI & $AVAX](https://debank.com/profile/0x4bB668c1D51B8A2A5Bd6dDC643296432f6adaA26?chain=avax) | NO | AVALANCHE |
 
 
 ---
@@ -174,6 +175,7 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 | Polygon | 3 | Gemini  |:heavy_check_mark: |  [mWBTC](https://polygonscan.com/address/0x0c0291f4c12f04da8b4139996c720a89d28ca069) |
 | Polygon | 4 | Leo|:heavy_check_mark: |  [mCrv3Crypto](https://polygonscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
 | Polygon | 5 | Virgo|:heavy_check_mark: |  [mWMATIC](https://polygonscan.com/address/0xC126A5f0688E87E4069159ad9Bd3cbe4EeEaD165) |
+| Polygon | 6 | Saturn|:heavy_check_mark: |  [mMUSD](https://polygonscan.com/address/0xa1c6670F5B040831156641a669F0DCa318272f7f) |
 
 ---
 
