@@ -184,6 +184,8 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 
 | Chain | Name | Active | TL;DR | 
 | --- | --- | --- | --- |
+| Avalanche | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://snowtrace.io/address/0xE58cdd204588b6C7fA5cf461398E4016A3C88227) | 
+| Avalanche | LeverageShannonMon  | :heavy_check_mark: | [LeverageShannonMon smart contract](https://snowtrace.io/address/0xA4EdF3942Bb15a9F3B8b04a3BC046E08790f58d4) |
 | Polygon | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://polygonscan.com/address/0x4ef509026d904f8236dac70d74a3d5b632ede9ea) | 
 | Polygon | LeverageShannonMon  | :heavy_check_mark: | [LeverageShannonMon smart contract](https://polygonscan.com/address/0x43d5c1a973381c89ea3dc2a455e9c895530da735) |
 | FTM | MushMon  | :heavy_check_mark: | [MushMon smart contract](https://ftmscan.com/address/0x883fB00742161DCe2235bbF4a67df84cd0e50c08) | 
