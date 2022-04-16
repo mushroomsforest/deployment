@@ -179,6 +179,7 @@ Timelock on Avalanche (24 hours): [0x64bdf61de87920515c4cb1bc05c7f3f7d6c9d555](h
 | Polygon | 4 | Leo|:heavy_check_mark: |  [mCrv3Crypto](https://polygonscan.com/address/0xe74358fEc47B55F94F5aCb4f32a30a36623Fc373) |
 | Polygon | 5 | Virgo|:heavy_check_mark: |  [mWMATIC](https://polygonscan.com/address/0xC126A5f0688E87E4069159ad9Bd3cbe4EeEaD165) |
 | Polygon | 6 | Saturn|:heavy_check_mark: |  [mMUSD](https://polygonscan.com/address/0xa1c6670F5B040831156641a669F0DCa318272f7f) |
+| Polygon | 7 | Lyra|:heavy_check_mark: |  [mQUICK](https://polygonscan.com/address/0x2255A52Cd5549b8AA04E4ED7C8AD730628f6C747) |
 
 ---
 
