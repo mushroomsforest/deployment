@@ -42,8 +42,6 @@ Treasury Wallet (cold custody): [0x3567FDe6092509c0A9AaA66dA9c047979E7B0533](htt
 
 Controller: [0x4bf5059065541a2b176500928e91fbfd0b121d07](https://etherscan.io/address/0x4bf5059065541a2b176500928e91fbfd0b121d07)
 
-Controller on BSC(deprecated): [0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736](https://bscscan.com/address/0x5DAe9B27313670663B34Ac8BfFD18825bB9Df736)
-
 Controller on BSC: [0xb6f8eDBE5C4287F4F2034a06Ab80befB8bAa1F80](https://bscscan.com/address/0xb6f8eDBE5C4287F4F2034a06Ab80befB8bAa1F80)
 
 Controller on FTM: [0x8c9fb580bdce5eb2a36efff597568672a066d6d1](https://ftmscan.com/address/0x8c9fb580bdce5eb2a36efff597568672a066d6d1)
