@@ -1,0 +1,23 @@
+This aims to document what happened during the `UST` depegging and cascading liquidation of our `WETH` & `WBTC` vaults on Ethereum.
+
+<b>Background:</b>
+
+Our vaults collateralize asset (`WETH` & `WBTC`) into MakerDAO to mint `DAI` and deposit `DAI` into [Curve UST wormhole pool](https://curve.fi/factory/53) (`DAI` -> `3CRV` -> `UST-3CRV LP`) for yield-farming in [Convex Finance](https://www.convexfinance.com/stake)
+
+<b>Timeline:</b>
+
+- 10th May, `UST` pegging started to [rapidly deteriorate](https://www.coingecko.com/en/coins/terra-usd/historical_data#panel) with market price as low as $.6 in a few hours and the Curve UST wormhole pool was seriously imbalanced with `UST` took up over `90%` in the pool. This means if we remove LP position at this time from the pool we would suffer huge slippage and receive much less `DAI` than we borrowed from MakerDAO
+- 11th May, [crypto market fud dump](https://www.coingecko.com/en/coins/ethereum/historical_data#panel) made our situation even worse and [our CDP monitoring bot](https://etherscan.io/address/0x7cdacba026dddaa0bd77e63474425f630ddf4a0d) failed to redeem required `DAI` to repay MakerDAO to boost the collateralization ratio due to extremely imbalanced UST-3CRV reserve in Curve UST wormhole pool
+- 11th May (at block [#14755244](https://etherscan.io/block/14755244)), MakerDAO triggered the liquidation of our [`WETH`](https://oasis.app/27377) & [`WBTC`](https://oasis.app/27331) vaults due to the collateral ratio fell below its `145%` liquidation threshhold
+- 11th May (at block [#14755321](https://etherscan.io/block/14755321)), our `WETH` vault was [liquidated](https://makerburn.com/#/liquidations/eth/449) with `76%` collateral sold plus `13%` penalty
+- 11th May (at block [#14755332](https://etherscan.io/block/14755332)), our `WBTC` vault was [liquidated](https://makerburn.com/#/liquidations/wbtc/166) with `77%` collateral sold plus `13%` penalty
+- After liquidation event, Mushrooms devs immediately started to evaluate possible salvage methods of remaining collateral in MakerDAO but in no vain so far. The underlying yield-farming smart contract for `WETH` & `WBTC` vaults could [only redeem asset from active CDP collateral position](https://etherscan.io/address/0x5ac929a67b8968010E307d3428f42271025531d2#code#L1186) called [`ink`](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation#glossary-vat-vault-engine) but after liquidation the remaining asset was already moved from `ink` to [`gem`](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation#collateral) 
+- In consideration of `UST` non-stopping depegging and [proposal to burn cross-chain liquidity](https://agora.terra.money/t/burn-the-remaining-ust-in-the-community-pool-cross-chain-liquidity-incentive-ust/6837), Mushrooms decided to remove LP position completely by suffering huge slippage from Curve UST wormhole pool to at least secure some portion of deposited DAI and to distribute claimed DAI directly to all affected vault users pro-rata as [announced in our twitter](https://twitter.com/MushroomsFinan1/status/1524682975559909376)
+- 12th May (at block [#14760219](https://etherscan.io/block/14760219)), `DAI` was [claimed](https://etherscan.io/tx/0xc90002d0aaaa5600c7e885d00010ff3ff772ebff00f1224bf2be3a93b768347b) for `WETH` vault but the slippage caused only `1.82M` out of originally `3.44M` deposited DAI was back.
+- 12th May (at block [#14760259](https://etherscan.io/block/14760259)), `DAI` was [claimed](https://etherscan.io/tx/0x91ddf50f579b7ef326766d18485c812382d4438d862644e38d3c4334cb173b7a) for `WBTC` vault but the slippage caused only `78K` out of originally `130K` deposited DAI was back.
+- Claimed `DAI` was then distributed to affected vault users according to vault share percentage accordingly from [our deployer address](https://github.com/mushroomsforest/deployment#deployer) as [announced in our twitter](https://twitter.com/MushroomsFinan1/status/1524731204947234817)
+- 13th May, Mushrooms reached out to insurance partner for possible help but unfortunately existing insurance integration does not cover this type of liquidation event (`within normal operations`).
+
+<b>Lessons:</b>
+- Deposit into `UST` Curve wormhole pool might be a risky move at the beginning (sounds a bit hindsight) and it is not wise to predict the market without fail-safe in place since the market could turn against what your expected in a blink
+- Smart contract could be more robust to take extreme situation (like liquidation) into account and reasonable to keep some alternatives to redeem asset in emergency(but with proper permission check)
